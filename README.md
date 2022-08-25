@@ -19,29 +19,29 @@ https://drive.google.com/file/d/1z8TodtkUYcbyaaxH_5TFgcoOjoFuEEQk/view?usp=shari
 ## Results
 
 
-#### Item Fat Content Vs Item Weight
+#### Credit Card Debt vs Age
 
 ![Credit Card Debt vs Age](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/7faae7a9630c96c945a167649aacbfb611e3cb87/Credit%20Card%20Debt%20vs%20Age.png)
+
+> We see on the scatterplot there is higher correlaiton of credit card debt amongst the yellow dots vs the red dots. Ages 40-60 seems to have a signinficant amount of debt compared to the other age groups.
+
+#### Features Correlation
+
 ![Feature Correlation](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/7faae7a9630c96c945a167649aacbfb611e3cb87/Feature%20Correlations.png)
 
-
-
-> Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
-
-#### Item Fat Content and Item Weight By Item Type
-
-![download](https://user-images.githubusercontent.com/107776771/182736380-edf2dbbe-097a-41ee-8500-66ad40aa45b5.png)
-
-> Based on the visualization Item weight has slightly decreased as the years go on and Item MRP steadly flucates from 1985 to 1997 but dips up and down go into to 2010.
+> We can see that there is no perfect linear relation between two or more variables.
 
 ## Model
+R2 Score Model 
 
-Our random forest performed the same as the train data. It can predict 100% of our training data.
-
+R2 score is 99%.
+Accuracy: 99.94 %
+Standard Deviation: 0.01 %
+Here the Standard deviation is very low which assures that the linear regression model is the best fit for our data.
 
 ## Recommendations:
 
-I would recomend our random forest model as it performed better on the r2 score with no tuning compared to our linear model which was also un-tuned. Our random forest was able to predict 100% of the training data.
+R2 score model perfomed based across all models deeming it the best production model. It performed at an accurary of 99% vs 96% and 86%. The company should focus on older population with Higher Annual salary.
 
 
 ## Limitations & Next Steps
