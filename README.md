@@ -21,7 +21,10 @@ https://drive.google.com/file/d/1z8TodtkUYcbyaaxH_5TFgcoOjoFuEEQk/view?usp=shari
 
 #### Item Fat Content Vs Item Weight
 
-![Item Fat Content vs Item Weight](https://user-images.githubusercontent.com/107776771/182735938-08c8cd4d-df68-4568-bd29-3960175a056c.png)
+![Credit Card Debt vs Age](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/7faae7a9630c96c945a167649aacbfb611e3cb87/Credit%20Card%20Debt%20vs%20Age.png)
+![Feature Correlation](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/7faae7a9630c96c945a167649aacbfb611e3cb87/Feature%20Correlations.png)
+
+
 
 > Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
 
