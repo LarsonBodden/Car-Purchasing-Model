@@ -19,9 +19,10 @@ https://drive.google.com/file/d/1z8TodtkUYcbyaaxH_5TFgcoOjoFuEEQk/view?usp=shari
 ## Results
 
 
-#### Credit Card Debt vs Age
+#### Car Purchase Amount vs Age
 
-![Credit Card Debt vs Age](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/7faae7a9630c96c945a167649aacbfb611e3cb87/Credit%20Card%20Debt%20vs%20Age.png)
+![Credit Card Debt vs Age](https://github.com/LarsonBodden/Car-Purchasing-Model-Project/blob/9674ad5a491ce44119be5ef55ef2be4310009a0e/Car%20Purchase%20Amount%20vs%20Age.png)
+
 
 > We see on the scatterplot there is higher correlaiton of credit card debt amongst the yellow dots vs the red dots. Ages 40-60 seems to have a signinficant amount of debt compared to the other age groups.
 
