@@ -41,7 +41,7 @@ Here the Standard deviation is very low which assures that the linear regression
 
 ## Recommendations:
 
-R2 score model perfomed based across all models deeming it the best production model. It performed at an accurary of 99% vs 96% and 86%. The company should focus on older population with Higher Annual salary.
+RMSE score model perfomed based across all models deeming it the best production model. It performed at an accurary of 99% vs 96% and 86%. The company should target the older population due to the fact they are more likely to purchase a car with a high purchase amount. 
 
 
 ## Limitations & Next Steps
